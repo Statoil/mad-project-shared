@@ -15,4 +15,7 @@
     <copyright>Copyright 2017</copyright>
     <tags>shared code</tags>
   </metadata>
+  <files>
+    <file src="lib\**" target="lib" />
+  </files>
 </package>
